@@ -1,11 +1,39 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
   <component name="ChangeListManager">
-    <list default="true" id="b6866f17-9c74-41d2-9a65-2c3c1eb2d59e" name="Changes" comment="" />
+    <list default="true" id="b6866f17-9c74-41d2-9a65-2c3c1eb2d59e" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/FilesUsed/InputFile.txt" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/FilesUsed/InputFile.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/WebDriverTest/ChatGptScalping.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/WebDriverTest/ChatGptScalping.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/WebDriverTest/Flipkart.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/WebDriverTest/Flipkart.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/WebDriverTest/ReadAndWriteAFile.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/WebDriverTest/ReadAndWriteAFile.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/WebDriverTest/SaveListToFile.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/WebDriverTest/SaveListToFile.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/WebDriverTest/SeleniumDemo.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/WebDriverTest/SeleniumDemo.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/WebDriverTest/UdemyScraping.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/WebDriverTest/UdemyScraping.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/WebDriverTest/brokenLink.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/WebDriverTest/brokenLink.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/WebDriverTest/processString.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/WebDriverTest/processString.java" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
   </component>
   <component name="ProjectId" id="2fyFvKYCiKyKVjxX83oN9mKt5Vx" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
@@ -13,13 +41,92 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "WebServerToolWindowFactoryState": "false"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
+    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+    &quot;last_opened_file_path&quot;: &quot;D:/Project/SeleniumJavaCourse&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;
   }
-}]]></component>
+}</component>
+  <component name="RunManager" selected="Application.Flipkart">
+    <configuration name="ChatGptScalping" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="WebDriverTest.ChatGptScalping" />
+      <module name="SeleniumJavaMaven" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="WebDriverTest.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Flipkart" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="WebDriverTest.Flipkart" />
+      <module name="SeleniumJavaMaven" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="WebDriverTest.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SaveListToFile" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="WebDriverTest.SaveListToFile" />
+      <module name="SeleniumJavaMaven" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="WebDriverTest.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="brokenLink" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="WebDriverTest.brokenLink" />
+      <module name="SeleniumJavaMaven" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="WebDriverTest.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="processString" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="WebDriverTest.processString" />
+      <module name="SeleniumJavaMaven" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="WebDriverTest.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Flipkart" />
+        <item itemvalue="Application.SaveListToFile" />
+        <item itemvalue="Application.ChatGptScalping" />
+        <item itemvalue="Application.processString" />
+        <item itemvalue="Application.brokenLink" />
+      </list>
+    </recent_temporary>
+  </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
@@ -28,7 +135,35 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1714765646910</updated>
+      <workItem from="1714765650112" duration="3316000" />
+      <workItem from="1715192614505" duration="467000" />
+      <workItem from="1715499640910" duration="22859000" />
     </task>
     <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/test/java/WebDriverTest/SeleniumDemo.java</url>
+          <line>8</line>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
   </component>
 </project>
